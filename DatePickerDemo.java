@@ -29,7 +29,7 @@ public class DatePickerDemo {
 		
 		//Appraoch 1
 		//driver.findElement(By.xpath("//input[@id='datepicker']")).sendKeys("10/15/2022"); // mm/dd/yyyy
-		
+		//vittal
 		//Approach2
 				
 		String year="2024";
